@@ -1,0 +1,2 @@
+# SoftwDeneme
+Homework10
